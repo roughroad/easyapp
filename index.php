@@ -6,11 +6,8 @@
 
 <body> 
 	<h1>PHP Test</h1>
-		<p><b>An Example of PHP in Action</b></p>
+		<p><b>A lab 9 of PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
-	<h2>PHP Information</h2> 
-		<p> <?php phpinfo(); ?> </p> 
-        <h2>TIME FOR A ...</h2>
 	</body> 
 </html>
